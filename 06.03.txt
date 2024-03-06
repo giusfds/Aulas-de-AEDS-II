@@ -1,0 +1,6 @@
+a analise de um algoritmo em particular e tao importantee tao dificil quanto a analise da classe. logicamente a analise da classe
+exige um gral maior de maturidade em relacao ao problema
+
+
+a analise de complexidade do algoritno de shellsort e um problema em aberto na computacao
+ex: ver o video sobre shellsort APOS a primeira prova 
